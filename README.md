@@ -41,5 +41,3 @@ make
 
 ### Run the Program
 ./project7
-- Object-Oriented Programming
-- Makefile compilation
