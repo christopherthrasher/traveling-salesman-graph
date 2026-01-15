@@ -1,0 +1,29 @@
+Best Path (Minimum Fuel Cost):
+Reno -> Salt Lake City -> San Francisco -> Las Vegas -> Seattle -> Reno | Fuel: 12 gallons
+
+All Possible Paths and Their Fuel Costs:
+
+Reno -> San Francisco -> Salt Lake City -> Seattle -> Las Vegas -> Reno | Fuel: 37 gallons
+Reno -> San Francisco -> Salt Lake City -> Las Vegas -> Seattle -> Reno | Fuel: 15 gallons
+Reno -> San Francisco -> Seattle -> Salt Lake City -> Las Vegas -> Reno | Fuel: 67 gallons
+Reno -> San Francisco -> Seattle -> Las Vegas -> Salt Lake City -> Reno | Fuel: 49 gallons
+Reno -> San Francisco -> Las Vegas -> Seattle -> Salt Lake City -> Reno | Fuel: 39 gallons
+Reno -> San Francisco -> Las Vegas -> Salt Lake City -> Seattle -> Reno | Fuel: 36 gallons
+Reno -> Salt Lake City -> San Francisco -> Seattle -> Las Vegas -> Reno | Fuel: 44 gallons
+Reno -> Salt Lake City -> San Francisco -> Las Vegas -> Seattle -> Reno | Fuel: 12 gallons
+Reno -> Salt Lake City -> Seattle -> San Francisco -> Las Vegas -> Reno | Fuel: 64 gallons
+Reno -> Salt Lake City -> Seattle -> Las Vegas -> San Francisco -> Reno | Fuel: 39 gallons
+Reno -> Salt Lake City -> Las Vegas -> Seattle -> San Francisco -> Reno | Fuel: 49 gallons
+Reno -> Salt Lake City -> Las Vegas -> San Francisco -> Seattle -> Reno | Fuel: 43 gallons
+Reno -> Seattle -> Salt Lake City -> San Francisco -> Las Vegas -> Reno | Fuel: 31 gallons
+Reno -> Seattle -> Salt Lake City -> Las Vegas -> San Francisco -> Reno | Fuel: 36 gallons
+Reno -> Seattle -> San Francisco -> Salt Lake City -> Las Vegas -> Reno | Fuel: 41 gallons
+Reno -> Seattle -> San Francisco -> Las Vegas -> Salt Lake City -> Reno | Fuel: 43 gallons
+Reno -> Seattle -> Las Vegas -> San Francisco -> Salt Lake City -> Reno | Fuel: 12 gallons
+Reno -> Seattle -> Las Vegas -> Salt Lake City -> San Francisco -> Reno | Fuel: 15 gallons
+Reno -> Las Vegas -> Salt Lake City -> Seattle -> San Francisco -> Reno | Fuel: 67 gallons
+Reno -> Las Vegas -> Salt Lake City -> San Francisco -> Seattle -> Reno | Fuel: 41 gallons
+Reno -> Las Vegas -> Seattle -> Salt Lake City -> San Francisco -> Reno | Fuel: 37 gallons
+Reno -> Las Vegas -> Seattle -> San Francisco -> Salt Lake City -> Reno | Fuel: 44 gallons
+Reno -> Las Vegas -> San Francisco -> Seattle -> Salt Lake City -> Reno | Fuel: 64 gallons
+Reno -> Las Vegas -> San Francisco -> Salt Lake City -> Seattle -> Reno | Fuel: 31 gallons
