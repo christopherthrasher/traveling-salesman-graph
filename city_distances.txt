@@ -1,0 +1,6 @@
+                Reno            San Francisco   Salt Lake City  Seattle         Las Vegas       
+Reno            0               218             518             0               438             
+San Francisco   218             0               0               807             0               
+Salt Lake City  518             0               0               830             420             
+Seattle         0               807             830             0               0               
+Las Vegas       438             0               420             0               0   
